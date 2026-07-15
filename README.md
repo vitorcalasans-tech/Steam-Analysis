@@ -1,8 +1,4 @@
-Aqui está o `README.md` atualizado com os seus dados de autor (Vitor Calasans, bacharel em Ciências de Dados e Machine Learning pelo UniCEUB, e o link correto do seu GitHub).
 
-Copie o código abaixo:
-
-```markdown
 # 🎮 Análise Exploratória de Dados — Conjunto de Dados Steam
 
 > Este projeto apresenta uma Análise Exploratória de Dados (EDA) detalhada sobre o catálogo de jogos da plataforma Steam, investigando dinâmicas de mercado, precificação e o comportamento dos usuários[cite: 1].
